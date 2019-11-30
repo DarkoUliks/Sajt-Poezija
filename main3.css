@@ -1,0 +1,199 @@
+
+body{
+	margin:0px;
+	padding: 0px; 
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+#poezija{
+	width: 50%;
+	height: 14330px;
+	background: black;
+    opacity: 0.8;
+	position: relative;
+	margin-left: 450px;
+    margin-top: 5px;
+    font-family: 'Acme', sans-serif;
+}
+
+#levopoezija{
+	
+      width: 100%;
+      height: 100%;
+      background:black;
+      opacity: 0.7;
+      float: left;
+      text-align: center;
+     
+}
+
+#levopoezija p{
+	font-size: 28px;
+}
+
+#pr{
+	width: 90%;
+	height: 1900px;
+	background: transparent;
+	margin-left: 25px;
+	border-bottom: 1px solid grey;
+}
+
+#pr p{
+	color: white;
+}
+
+
+
+#tri{
+	width: 90%;
+	height: 1150px;
+	background: transparent;
+	margin-left: 25px;
+    border-bottom: 1px solid grey;
+}
+
+
+
+#tri p{
+	color: white;
+}
+
+
+#pet{
+	width: 90%;
+	height: 1900px;
+	background: transparent;
+	margin-left: 25px;
+    border-bottom: 1px solid grey;
+}
+
+
+
+#pet p{
+	color: white;
+}
+
+#peti{
+	width: 90%;
+	height: 1900px;
+	background: transparent;
+	margin-left: 25px;
+    border-bottom: 1px solid grey;
+}
+
+
+
+#peti p{
+	color: white;
+}
+
+
+
+
+
+#sedam{
+	width: 90%;
+	height: 1250px;
+	background: transparent;
+	margin-left: 25px;
+    border-bottom: 1px solid grey;
+}
+
+
+
+#sedam p{
+	color: white;
+}
+
+
+
+
+
+#dr{
+    padding-top: 5px;
+	width: 90%;
+	height: 1950px;
+	background: transparent;
+	margin-left: 25px;
+	border-bottom: 1px solid grey;
+}
+
+#dr p{
+	color: white;
+}
+
+
+#cetiri{
+	width: 90%;
+	height: 650px;
+	background: transparent;
+	margin-left: 25px;
+	border-bottom: 1px solid grey;
+}
+
+#cetiri p{
+	color: white;
+}
+
+
+
+#sest{
+	width: 90%;
+	height: 1720px;
+	background: transparent;
+	margin-left: 25px;
+	border-bottom: 1px solid grey;
+}
+
+#sest p{
+	color: white;
+}
+
+
+#osam{
+	width: 90%;
+	height: 900px;
+	background: transparent;
+	margin-left: 25px;
+    border-bottom: 1px solid grey;
+}
+
+
+
+#osam p{
+	color: white;
+}
+
+
+#deset{
+	width: 90%;
+	height: 1100px;
+	background: transparent;
+	margin-left: 25px;
+    border-bottom: 1px solid grey;
+}
+
+
+
+#deset p{
+	color: white;
+}
+
+
+#dvanaest{
+	width: 90%;
+	height: 350px;
+	background: transparent;
+	margin-left: 25px;
+    border-bottom: 1px solid grey;
+}
+
+
+
+#dvanaest p{
+	color: white;
+}

@@ -1,0 +1,595 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+
+@media (max-width: 1640px){
+	
+#glavno {
+	height: 520px;
+}
+
+#glavniii{
+	
+	height: 2600px;
+}
+
+
+#glavnilevooo{
+	height: 2600px;
+}
+
+
+
+}
+
+
+
+@media (max-width: 1620px){
+
+
+#glavnogalerija{
+	
+	height: 3350px;
+}
+
+
+
+#desnogalerija img{
+
+	width: 32%;
+	height: 200px; 
+
+}
+
+#glavnii{
+	
+	height: 5000px;
+}
+
+
+#glavnilevoo{
+	height: 5000px;
+}
+
+
+
+#desnogalerija img{
+	width: 98%;
+	height: 590px;
+	
+     
+}
+
+#glavnogalerija{
+	
+	height: 28720px;
+	
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1450px){
+
+
+#duplo{
+
+	margin-left: 320px;  
+}
+
+nav{
+
+	margin-left: 320px;  
+}
+
+
+#naslov{
+
+	margin-left: 320px;  
+}
+
+
+#glavni{
+	margin-left: 320px; 
+}
+
+#glavnii{
+	margin-left: 320px; 
+}
+
+#glavniii{
+	margin-left: 320px; 
+}
+
+
+#glavno{
+	margin-left: 320px;
+}
+
+#poezija{
+	margin-left: 320px;
+}
+
+#glavnoadresa{
+    margin-left: 320px;
+}
+
+#glavnogalerija{
+     margin-left: 320px;
+
+}
+
+#izmedju{
+	margin-left: 320px;
+}
+
+#tabla{
+	margin-left: 320px;
+}
+
+#foter{
+	margin-left: 320px;
+}
+
+#glavnidesno img{
+	
+      width: 80%;
+      height: 65%; 
+      padding-left: 25px;
+      padding-top: 74px;     
+}
+
+#foter p{ 
+    margin-left: 30%;
+    
+}
+
+#glavno {
+	height: 600px;
+}
+
+
+
+#glavniii{
+	
+	height: 3000px;
+}
+
+
+#glavnilevooo{
+	height: 3000px;
+}
+
+}
+
+
+
+
+@media(max-width: 1310px){
+	.opsirno{
+		margin-top: -10px;
+	}
+}
+
+
+
+
+
+@media (max-width: 1220px){
+
+
+nav{
+	width: 82%;
+	height: 75px;
+    line-height: 85px;
+    margin-left: 100px;
+}
+
+
+nav ul li a{
+  
+  padding: 14px;
+  font-size: 28px;
+}
+
+
+
+#duplo{
+
+	margin-left: 220px;  
+}
+
+#naslov{
+	display: none;
+}
+
+
+#naslovv{
+    display: block;
+	margin-left: 100px;  
+	  width: 82%;
+	height: 500px;
+	background: black;
+	position: relative;
+    margin-top: 5px;
+    overflow: hidden;
+	 
+}
+
+#sliderr{
+     width:1000000000000px;
+     height: 500px;    
+}
+
+
+#sliderr img{
+	width: 987px;
+	height: 500px;
+	float: left;
+}
+
+#navigacija{
+	display: none;
+}
+
+
+#glavni{
+	width: 82%;
+	height: 420px;
+	
+	
+	margin-left: 100px;
+	
+	
+
+}
+
+#glavnidesno a img{    
+	
+      width: 80%;
+      height: 85%;
+      
+     margin-top: -45px;
+      margin-left: 2%;
+     
+}
+
+#glavno{
+	width: 82%;
+	margin-left: 100px;
+	height: 720px;
+}
+
+#desno{
+  background: black;
+ 
+}
+
+
+#desno img{
+	
+      width: 100%;
+      height: 100%; 
+     
+}
+
+#levo p{
+	font-size: 26px;
+}
+
+
+#levo h3{
+	font-size: 38px;
+}
+
+
+#glavnii{
+	margin-left: 100px; 
+	width: 82%;
+	height: 4300px;
+}
+
+#glavnilevoo{
+	height: 4300px;
+}
+
+
+
+#glavniii{
+	margin-left: 100px; 
+	width: 82%;
+	height: 3000px;
+}
+
+
+
+
+#poezija{
+	margin-left: 100px;
+	width: 82%;
+	height: 19850px;
+}
+
+#levopoezija p{
+    font-size: 40px;
+}
+
+
+
+
+#glavnogalerija{
+     margin-left: 100px;
+
+}
+
+
+#izmedju{
+	margin-left: 100px;
+}
+
+
+
+#tabla{
+	margin-left: 100px;
+	width: 82%;
+}
+
+
+
+#foter{
+	margin-left: 100px;
+	width: 82%;
+}
+
+
+
+#foter p{
+
+	margin-left: 36%;
+
+}
+
+
+
+#pr{
+	
+	height: 2600px;
+	
+}
+
+
+#tri{
+	
+	height: 1550px;
+	
+}
+
+
+#pet{
+	height: 2600px;
+	
+}
+
+#peti{
+	height: 3000px;
+	
+}
+
+#sedam{
+	height: 1850px;
+
+}
+
+#dr{
+    
+	height: 2750px;
+	
+}
+
+
+#cetiri{
+	
+	height: 900px;
+	
+}
+
+
+#sest{
+	
+	height: 2350px;
+	
+}
+
+
+#osam{
+	
+	height: 1250px;
+	
+}
+
+#deset{
+	
+	height: 1550px;
+	
+}
+
+#dvanaest{
+	
+	height: 450px;
+	
+}
+
+#desnogalerija img{
+	width: 98%;
+	height: 490px;
+	
+     
+}
+
+#glavnogalerija{
+	
+	height: 23920px;
+	
+}
+
+
+
+
+#izmedju{
+	width: 82%;
+	height: 370px;
+}
+
+#izmedju li a{
+	font-size: 24px;
+	padding-top: 5px;
+}
+
+
+#izmedju li {
+	
+	padding-top: 15px;
+}
+
+
+#glavnogalerija{
+	width: 82%;
+	height: 43500px;
+}
+
+#desnogalerija img{
+	
+	height: 890px;
+	padding: 8px;
+     
+}
+
+
+
+#glavnoadresa{
+	width: 82%;
+	height: 600px;
+	margin-left: 100px;
+}
+
+#glavni{
+	
+	height: 560px;  
+	
+
+}
+
+}
+
+
+
+
+@media (max-width:1160px){
+
+	body {
+        background-image: url("slike/_84485-4.jpg");
+        background-position: 100%;
+    }
+
+
+	#glavnogalerija {
+		background-color: grey;	
+	  }
+}
+
+
+
+
+@media (max-width: 975px){
+
+
+
+#posle{
+	display: block;
+	color:grey;
+	margin-left: 50px;
+	font-size: 36px;
+	
+}
+
+nav ul{
+    display: none;
+}
+
+
+.meni{
+	display: block;
+
+
+}
+
+nav{
+	margin-top: 10px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
